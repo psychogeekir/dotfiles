@@ -1,0 +1,6 @@
+{
+    "cmd": ["C:\\Users\\qlzou\\MyApp\\Anaconda3\\python", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "shell": true
+}
